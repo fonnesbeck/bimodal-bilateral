@@ -35,3 +35,7 @@ To further study this critical issue we have partner with OPTION Schools, Inc an
 * Age of second CI
 * Device type (AB, Med El, Cochlear) – descriptive would not compare companies
 * Age at time and Standard Scores of testing for vocab, artic, language
+
+## Model
+
+[Read-only iPython Notebook for current model](http://nbviewer.ipython.org/urls/raw.github.com/fonnesbeck/bimodal-bilateral/master/Bimodal-bilateral%20Analysis.ipynb)
