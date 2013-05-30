@@ -13,9 +13,7 @@ To further study this critical issue we have partner with OPTION Schools, Inc an
 
 ## Learner Outcomes
 
-1. With data from the LSL-DR, we are using Bayesian linear mixed effects model to estimate the influence of demographics on test scores
-2. Preliminary pilot data suggests that children with bilateral cochlear implants score higher on standardized measures than children with bimodal hearing
-3. This data will be used when counseling patients on when and if to implant the second ear
+With data from the LSL-DR, we are using Bayesian linear mixed effects model to estimate the influence of demographics on test scores. Preliminary pilot data suggests that children with bilateral cochlear implants score higher on standardized measures than children with bimodal hearing. This data will be used when counseling patients on when and if to implant the second ear
 
 ## Variables of interest:
 
